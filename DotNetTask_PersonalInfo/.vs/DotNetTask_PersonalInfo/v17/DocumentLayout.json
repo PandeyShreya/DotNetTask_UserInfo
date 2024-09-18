@@ -1,37 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Campus Training\\Tasks\\DotNetTask_PersonalInfo\\",
+  "WorkspaceRootPath": "D:\\Campus Training\\Tasks\\DotNetTask\\DotNetTask_PersonalInfo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0C07F608-B68B-4346-9B7B-4858335A4938}|DotNetTask_PersonalInfo.csproj|d:\\campus training\\tasks\\dotnettask_personalinfo\\dao\\personalinfoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0C07F608-B68B-4346-9B7B-4858335A4938}|DotNetTask_PersonalInfo.csproj|d:\\campus training\\tasks\\dotnettask\\dotnettask_personalinfo\\dao\\personalinfoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C07F608-B68B-4346-9B7B-4858335A4938}|DotNetTask_PersonalInfo.csproj|solutionrelative:dao\\personalinfoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C07F608-B68B-4346-9B7B-4858335A4938}|DotNetTask_PersonalInfo.csproj|d:\\campus training\\tasks\\dotnettask_personalinfo\\controllers\\peronalinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0C07F608-B68B-4346-9B7B-4858335A4938}|DotNetTask_PersonalInfo.csproj|d:\\campus training\\tasks\\dotnettask\\dotnettask_personalinfo\\controllers\\peronalinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C07F608-B68B-4346-9B7B-4858335A4938}|DotNetTask_PersonalInfo.csproj|solutionrelative:controllers\\peronalinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C07F608-B68B-4346-9B7B-4858335A4938}|DotNetTask_PersonalInfo.csproj|d:\\campus training\\tasks\\dotnettask_personalinfo\\dao\\ipersonalinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0C07F608-B68B-4346-9B7B-4858335A4938}|DotNetTask_PersonalInfo.csproj|d:\\campus training\\tasks\\dotnettask\\dotnettask_personalinfo\\dao\\ipersonalinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C07F608-B68B-4346-9B7B-4858335A4938}|DotNetTask_PersonalInfo.csproj|solutionrelative:dao\\ipersonalinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C07F608-B68B-4346-9B7B-4858335A4938}|DotNetTask_PersonalInfo.csproj|d:\\campus training\\tasks\\dotnettask_personalinfo\\models\\personalinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0C07F608-B68B-4346-9B7B-4858335A4938}|DotNetTask_PersonalInfo.csproj|d:\\campus training\\tasks\\dotnettask\\dotnettask_personalinfo\\models\\personalinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C07F608-B68B-4346-9B7B-4858335A4938}|DotNetTask_PersonalInfo.csproj|solutionrelative:models\\personalinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C07F608-B68B-4346-9B7B-4858335A4938}|DotNetTask_PersonalInfo.csproj|d:\\campus training\\tasks\\dotnettask_personalinfo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0C07F608-B68B-4346-9B7B-4858335A4938}|DotNetTask_PersonalInfo.csproj|d:\\campus training\\tasks\\dotnettask\\dotnettask_personalinfo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C07F608-B68B-4346-9B7B-4858335A4938}|DotNetTask_PersonalInfo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C07F608-B68B-4346-9B7B-4858335A4938}|DotNetTask_PersonalInfo.csproj|d:\\campus training\\tasks\\dotnettask_personalinfo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{0C07F608-B68B-4346-9B7B-4858335A4938}|DotNetTask_PersonalInfo.csproj|d:\\campus training\\tasks\\dotnettask\\dotnettask_personalinfo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{0C07F608-B68B-4346-9B7B-4858335A4938}|DotNetTask_PersonalInfo.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C07F608-B68B-4346-9B7B-4858335A4938}|DotNetTask_PersonalInfo.csproj|d:\\campus training\\tasks\\dotnettask_personalinfo\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0C07F608-B68B-4346-9B7B-4858335A4938}|DotNetTask_PersonalInfo.csproj|d:\\campus training\\tasks\\dotnettask\\dotnettask_personalinfo\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C07F608-B68B-4346-9B7B-4858335A4938}|DotNetTask_PersonalInfo.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C07F608-B68B-4346-9B7B-4858335A4938}|DotNetTask_PersonalInfo.csproj|d:\\campus training\\tasks\\dotnettask_personalinfo\\dotnettask_personalinfo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{0C07F608-B68B-4346-9B7B-4858335A4938}|DotNetTask_PersonalInfo.csproj|d:\\campus training\\tasks\\dotnettask\\dotnettask_personalinfo\\dotnettask_personalinfo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{0C07F608-B68B-4346-9B7B-4858335A4938}|DotNetTask_PersonalInfo.csproj|solutionrelative:dotnettask_personalinfo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -42,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,37 +50,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "D:\\Campus Training\\Tasks\\DotNetTask_PersonalInfo\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "WeatherForecast.cs",
-              "ToolTip": "D:\\Campus Training\\Tasks\\DotNetTask_PersonalInfo\\WeatherForecast.cs",
-              "RelativeToolTip": "WeatherForecast.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T07:33:54.501Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "IPersonalinfo.cs",
-              "DocumentMoniker": "D:\\Campus Training\\Tasks\\DotNetTask_PersonalInfo\\DAO\\IPersonalinfo.cs",
+              "DocumentMoniker": "D:\\Campus Training\\Tasks\\DotNetTask\\DotNetTask_PersonalInfo\\DAO\\IPersonalinfo.cs",
               "RelativeDocumentMoniker": "DAO\\IPersonalinfo.cs",
-              "ToolTip": "D:\\Campus Training\\Tasks\\DotNetTask_PersonalInfo\\DAO\\IPersonalinfo.cs",
+              "ToolTip": "D:\\Campus Training\\Tasks\\DotNetTask\\DotNetTask_PersonalInfo\\DAO\\IPersonalinfo.cs",
               "RelativeToolTip": "DAO\\IPersonalinfo.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T06:02:46.042Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-16T06:02:46.042Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "PersonalInfoImpl.cs",
-              "DocumentMoniker": "D:\\Campus Training\\Tasks\\DotNetTask_PersonalInfo\\DAO\\PersonalInfoImpl.cs",
+              "DocumentMoniker": "D:\\Campus Training\\Tasks\\DotNetTask\\DotNetTask_PersonalInfo\\DAO\\PersonalInfoImpl.cs",
               "RelativeDocumentMoniker": "DAO\\PersonalInfoImpl.cs",
-              "ToolTip": "D:\\Campus Training\\Tasks\\DotNetTask_PersonalInfo\\DAO\\PersonalInfoImpl.cs",
+              "ToolTip": "D:\\Campus Training\\Tasks\\DotNetTask\\DotNetTask_PersonalInfo\\DAO\\PersonalInfoImpl.cs",
               "RelativeToolTip": "DAO\\PersonalInfoImpl.cs",
               "ViewState": "AQIAABgAAAAAAAAAAAAYwCQAAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -89,78 +75,75 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\Campus Training\\Tasks\\DotNetTask\\DotNetTask_PersonalInfo\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "D:\\Campus Training\\Tasks\\DotNetTask\\DotNetTask_PersonalInfo\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T07:33:54.501Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Campus Training\\Tasks\\DotNetTask_PersonalInfo\\appsettings.json",
+              "DocumentMoniker": "D:\\Campus Training\\Tasks\\DotNetTask\\DotNetTask_PersonalInfo\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "D:\\Campus Training\\Tasks\\DotNetTask_PersonalInfo\\appsettings.json",
+              "ToolTip": "D:\\Campus Training\\Tasks\\DotNetTask\\DotNetTask_PersonalInfo\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-16T07:38:58.345Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-16T07:38:58.345Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "PeronalInfoController.cs",
-              "DocumentMoniker": "D:\\Campus Training\\Tasks\\DotNetTask_PersonalInfo\\Controllers\\PeronalInfoController.cs",
+              "DocumentMoniker": "D:\\Campus Training\\Tasks\\DotNetTask\\DotNetTask_PersonalInfo\\Controllers\\PeronalInfoController.cs",
               "RelativeDocumentMoniker": "Controllers\\PeronalInfoController.cs",
-              "ToolTip": "D:\\Campus Training\\Tasks\\DotNetTask_PersonalInfo\\Controllers\\PeronalInfoController.cs",
+              "ToolTip": "D:\\Campus Training\\Tasks\\DotNetTask\\DotNetTask_PersonalInfo\\Controllers\\PeronalInfoController.cs",
               "RelativeToolTip": "Controllers\\PeronalInfoController.cs",
               "ViewState": "AQIAAEUAAAAAAAAAAAAowE8AAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T07:10:33.241Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-16T07:10:33.241Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Campus Training\\Tasks\\DotNetTask_PersonalInfo\\Program.cs",
+              "DocumentMoniker": "D:\\Campus Training\\Tasks\\DotNetTask\\DotNetTask_PersonalInfo\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Campus Training\\Tasks\\DotNetTask_PersonalInfo\\Program.cs",
+              "ToolTip": "D:\\Campus Training\\Tasks\\DotNetTask\\DotNetTask_PersonalInfo\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAABwAAAAAAAAAAAAQwCcAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T07:13:29.561Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-16T07:13:29.561Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "PersonalInformation.cs",
-              "DocumentMoniker": "D:\\Campus Training\\Tasks\\DotNetTask_PersonalInfo\\Models\\PersonalInformation.cs",
+              "DocumentMoniker": "D:\\Campus Training\\Tasks\\DotNetTask\\DotNetTask_PersonalInfo\\Models\\PersonalInformation.cs",
               "RelativeDocumentMoniker": "Models\\PersonalInformation.cs",
-              "ToolTip": "D:\\Campus Training\\Tasks\\DotNetTask_PersonalInfo\\Models\\PersonalInformation.cs",
+              "ToolTip": "D:\\Campus Training\\Tasks\\DotNetTask\\DotNetTask_PersonalInfo\\Models\\PersonalInformation.cs",
               "RelativeToolTip": "Models\\PersonalInformation.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAgwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T06:43:02.624Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-16T06:43:02.624Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "DotNetTask_PersonalInfo",
-              "DocumentMoniker": "D:\\Campus Training\\Tasks\\DotNetTask_PersonalInfo\\DotNetTask_PersonalInfo.csproj",
+              "Title": "DotNetTask_PersonalInfo.csproj",
+              "DocumentMoniker": "D:\\Campus Training\\Tasks\\DotNetTask\\DotNetTask_PersonalInfo\\DotNetTask_PersonalInfo.csproj",
               "RelativeDocumentMoniker": "DotNetTask_PersonalInfo.csproj",
-              "ToolTip": "D:\\Campus Training\\Tasks\\DotNetTask_PersonalInfo\\DotNetTask_PersonalInfo.csproj",
+              "ToolTip": "D:\\Campus Training\\Tasks\\DotNetTask\\DotNetTask_PersonalInfo\\DotNetTask_PersonalInfo.csproj",
               "RelativeToolTip": "DotNetTask_PersonalInfo.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-16T06:01:40.09Z",
-              "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "WhenOpened": "2024-09-16T06:01:40.09Z"
             }
           ]
         }

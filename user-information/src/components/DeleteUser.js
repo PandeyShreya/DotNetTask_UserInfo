@@ -9,6 +9,7 @@ const DeleteUser = () => {
         try {
             await deleteUserById(userId);
             alert('User deleted successfully!');
+            setUserId("")
         } catch (error) {
             console.error('Error deleting user:', error);
         }
