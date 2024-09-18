@@ -1,0 +1,6 @@
+@DotNetTask_PersonalInfo_HostAddress = http://localhost:5203
+
+GET {{DotNetTask_PersonalInfo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

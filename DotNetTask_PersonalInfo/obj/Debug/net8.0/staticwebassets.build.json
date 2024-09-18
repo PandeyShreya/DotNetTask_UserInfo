@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ShlB+fW0kntcSjulaPV5itmYzHdin0s7r4FHMYPUQ5o=",
+  "Source": "DotNetTask_PersonalInfo",
+  "BasePath": "_content/DotNetTask_PersonalInfo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
